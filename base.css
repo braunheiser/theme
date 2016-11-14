@@ -17,8 +17,14 @@
  display:none;   
 }
 .channel-emote {
-    min-width: 70px;
+  	min-width: 10px;
+ 	width: auto;
+ 	max-width: 480px;
+ 	min-height: 10px;
+ 	height: auto;
+ 	max-height: 640px;
 }
+
 body {
     font-size: 1.3em;
     font-family: 'Montserrat', sans-serif;
